@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MicroBlogHappyShare</string>
+    <string name="title_activity_main_activity">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pull_to_refresh_pull_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中&#8230;</string>
+
+    <!-- 每个listview 代表一个微博 -->
+    <string name="from_which_plaform">来自：</string>
+    <string name="display_original_pic">查看原图</string>
+    <string name="pull_to_refresh_update">最近更新：</string>
+    <string name="first_tag">first_tag</string>
+    <string name="second_tag">second_tag</string>
+
+    <!-- menu -->
+    <string name="home">首页</string>
+    <string name="user_timeline">我的微博</string>
+    <string name="user_news">动态</string>
+    <string name="user_info">我的资料</string>
+    <string name="more">更多</string>
+    
+    
+    
+   <string name="exit">退出</string>
+   <string name="add">添加账户</string>
+    <string name="delete">删除账户</string>
+    
+    <string name="sina">新浪</string>
+    <string name="tencent">腾讯</string>
+    <string name="weixin">微信</string>
+     <string name="introuction">自我介绍：</string>
+
+</resources>
