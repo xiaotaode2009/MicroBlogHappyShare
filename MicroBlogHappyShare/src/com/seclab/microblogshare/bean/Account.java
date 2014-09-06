@@ -1,10 +1,10 @@
-package com.seclab.microblogshare.bean;
+﻿package com.seclab.microblogshare.bean;
 
 
 public class Account {
 
 	public int get_id() {
-		return _id;
+		return _id;//oo
 	}
 
 	public void set_id(int _id) {
